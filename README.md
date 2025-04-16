@@ -14,7 +14,7 @@ I'm a student at Virginia Tech studying **Computer Science and Math**, driven by
 ### GitHub Stats
 
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanmalhotra0&show_icons=true&theme=default)  
-https://github-readme-streak-stats.herokuapp.com/?user=rohanmalhotra0&theme=default
+
 
 
 
