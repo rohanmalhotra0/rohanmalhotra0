@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Rohan Malhotra
+###  Hi there, I'm Rohan Malhotra
 
 I'm a student at Virginia Tech studying **Computer Science and Math**, driven by a passion for building **automated trading systems**, modeling **quantitative finance**, and exploring **space and defense tech**.
 
