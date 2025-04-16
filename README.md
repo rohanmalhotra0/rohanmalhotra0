@@ -10,3 +10,6 @@ I'm a student at Virginia Tech studying **Computer Science and Math**, driven by
 -  Website: [malhotrarohan.com](https://malhotrarohan.com)
 
  Feel free to connect or check out my work below!
+
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanmalhotra0&show_icons=true&theme=default)
+
