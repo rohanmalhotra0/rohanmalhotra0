@@ -7,7 +7,7 @@ I'm a student at Virginia Tech studying **Computer Science and Math**, driven by
 -  Working on: Space imaging and signal processing with CubeSat projects at the Hume Center
 -  Skills: Python, C++, Java, Swift, Flask, Git, Docker, ROS2, NumPy, Pandas, Pytorch
 -  Interests: Quantitative finance, AI, embedded systems, algorithmic trading, and system design
--  Website: [malhotrarohan.com](https://malhotrarohan.com)
+-  Website: [rohanm.org](https://rohanm.org)
 
  Feel free to connect or check out my work below!
 
