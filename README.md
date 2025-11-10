@@ -2,11 +2,6 @@
 
 Junior at **NYU Courant** studying **Computer Science & Math**. I like building **automated trading systems**, modeling **quant finance**, and working on **space/defense tech**.
 
-- Building: **IndiTrack** — a trading alert assistant (SwiftUI + Flask)
-- Researching: RSI wave models, GBM-based option ideas, real-time alerting
-- Working on: space imaging + signal processing (CubeSat projects)
-- Skills: Python, C++, Java, Swift, Flask, Git, Docker, ROS2, NumPy, Pandas, PyTorch
-- Interests: quant finance, AI, embedded systems, algorithmic trading, system design
 - Website: **[rohanm.org](https://rohanm.org)** · YouTube demo (**[Refrax](https://www.youtube.com/watch?v=J7e7Fx0Nu2A)**)
 
 ### Featured Projects
