@@ -10,9 +10,6 @@ Junior at **NYU Courant** studying **Computer Science & Math**. I like building 
 - **Green Sticker** — hands-free cursor control with a colored sticker, on-device CV. **[greensticker.us](https://greensticker.us)**
 - **Autism Research** — simple screening tools + data collection. **[autismtester.com](https://autismtester.com)**
 - Papers: Reddit sentiment vs markets · Kelly allocation. (see links on **[rohanm.org](https://rohanm.org)**)
-
-### GitHub Stats
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanmalhotra0&show_icons=true&theme=default)
-
+  
 ### Find me
 **Website:** [rohanm.org](https://rohanm.org) · **LinkedIn:** [/in/rohanamal](https://www.linkedin.com/in/rohanamal) · **GitHub:** [@rohanmalhotra0](https://github.com/rohanmalhotra0) · **Email:** ram9952@nyu.edu
