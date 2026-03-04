@@ -17,12 +17,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=rohanmalhotra0&show_icons=true&hide_border=true&bg_color=000000&title_color=1877F2&icon_color=1877F2&text_color=ffffff&commits_year=2025" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=rohanmalhotra0&hide_border=true&background=000000&ring=1877F2&fire=1877F2&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=1877F2&dates=ffffff&starting_year=2025" height="165" alt="Streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=rohanmalhotra0&hide_border=true&background=000000&ring=1877F2&fire=1877F2&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=1877F2&dates=ffffff&starting_year=2025&ending_year=2026" height="165" alt="Streak stats" />
 </p>
 
 ---
 
-### <img src="https://skillicons.dev/icons?i=github" width="20" height="20" /> What I Build
+### <img src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=codepen&amp;logoColor=1877F2" width="20" height="20" /> What I Build
 
 > Systems engineer & quant researcher. Concurrency, real-time pipelines, statistical inference.  
 > C++ at **Kalshi** (prediction markets). C++ at **Hume Center** (CubeSat → orbit). PyTorch on **500k+** records at Aress.  
@@ -30,7 +30,7 @@
 
 ---
 
-### <img src="https://skillicons.dev/icons?i=nodejs" width="20" height="20" /> Stack
+### <img src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=npm&amp;logoColor=1877F2" width="20" height="20" /> Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,cpp,py,react,nextjs,nodejs,postgres,docker,pytorch,git&theme=dark" />
@@ -42,7 +42,7 @@
 
 ---
 
-### <img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" /> Experience
+### <img src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=readthedocs&amp;logoColor=1877F2" width="20" height="20" /> Experience
 
 | | | |
 |:---:|:---|:---|
@@ -53,7 +53,7 @@
 
 ---
 
-### <img src="https://skillicons.dev/icons?i=docker" width="20" height="20" /> Projects
+### <img src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=github&amp;logoColor=1877F2" width="20" height="20" /> Projects
 
 | Project | Description |
 |:---|:---|
@@ -69,14 +69,14 @@
 
 ---
 
-### <img src="https://skillicons.dev/icons?i=python" width="20" height="20" /> Research
+### <img src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=bookstack&amp;logoColor=1877F2" width="20" height="20" /> Research
 
 - **Reddit Sentiment in Financial Markets** — NLP + time-series · volatility analysis · regression pipelines
 - **Capital Allocation with the Kelly Criterion** — Monte Carlo backtesting · fractional vs full Kelly · risk-adjusted growth
 
 ---
 
-### <img src="https://skillicons.dev/icons?i=cpp" width="20" height="20" /> Education
+### <img src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=academia&amp;logoColor=1877F2" width="20" height="20" /> Education
 
 **NYU Courant** · B.A. Mathematics & Computer Science (Accelerated 3-Year) · May 2027 · 3.75 GPA
 
