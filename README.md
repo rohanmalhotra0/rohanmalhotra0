@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohanmalhotra0/rohanmalhotra0/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohanmalhotra0&color=1877F2&style=flat-square&label=profile+views" alt="Profile views" />
   <a href="https://rohanm.org"><img src="https://img.shields.io/badge/rohanm.org-000000?style=flat-square&logo=googlechrome&logoColor=1877F2" /></a>
   <a href="https://linkedin.com/in/rohanamal"><img src="https://img.shields.io/badge/LinkedIn-1877F2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -22,6 +18,10 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=rohanmalhotra0&show_icons=true&hide_border=true&bg_color=000000&title_color=1877F2&icon_color=1877F2&text_color=ffffff&commits_year=2026" height="165" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=rohanmalhotra0&hide_border=true&background=000000&ring=1877F2&fire=1877F2&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=1877F2&dates=ffffff&starting_year=2025&ending_year=2026" height="165" alt="Streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohanmalhotra0/rohanmalhotra0/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
 
 ---
