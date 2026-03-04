@@ -12,14 +12,18 @@
   <a href="https://linkedin.com/in/rohanamal"><img src="https://img.shields.io/badge/LinkedIn-1877F2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Rohanmalhotra8974@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=1877F2" /></a>
 </p>
-![Metrics](https://metrics.lecoq.io/rohanmalhotra0?template=classic)
+
 ---
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=rohanmalhotra0&show_icons=true&hide_border=true&hide_rank=true&bg_color=000000&title_color=1877F2&icon_color=1877F2&text_color=ffffff&commits_year=2026" height="165" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=rohanmalhotra0&hide_border=true&background=000000&ring=1877F2&fire=1877F2&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=1877F2&dates=ffffff&starting_year=2025&ending_year=2026" height="165" alt="Streak stats" />
 </p>
+### <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=1877F2" width="20" height="20" /> Activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmalhotra0&bg_color=000000&color=1877F2&line=1877F2&point=ffffff&area=true&hide_border=true" />
+</p>
 ### <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=readthedocs&logoColor=1877F2" width="20" height="20" /> Experience
 
 <table>
