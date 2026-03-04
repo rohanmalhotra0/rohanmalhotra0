@@ -20,10 +20,6 @@
   <img src="https://streak-stats.demolab.com/?user=rohanmalhotra0&hide_border=true&background=000000&ring=1877F2&fire=1877F2&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=1877F2&dates=ffffff&starting_year=2025&ending_year=2026" height="165" alt="Streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohanmalhotra0/rohanmalhotra0/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
-
 ### Pinned Repositories
 
 <p align="center">
@@ -63,19 +59,19 @@
 
 <table>
 <tr>
-<td width="70" align="center" valign="middle"><a href="https://kalshi.com"><img src="https://www.google.com/s2/favicons?domain=kalshi.com&sz=48" width="40" alt="Kalshi" /></a></td>
+<td width="70" align="center" valign="middle"><a href="https://kalshi.com"><img src="./assets/kalshi.svg" width="40" alt="Kalshi" /></a></td>
 <td><a href="https://kalshi.com"><strong>Kalshi</strong></a><br/><em>Quantitative Developer Intern</em><br/>C++ hedging engine · Kelly-based sizing · real-time WebSocket pipeline</td>
 </tr>
 <tr>
-<td width="70" align="center" valign="middle"><a href="https://aress.com"><img src="https://www.google.com/s2/favicons?domain=aress.com&sz=48" width="40" alt="Aress" /></a></td>
+<td width="70" align="center" valign="middle"><a href="https://aress.com"><img src="./assets/aress.svg" width="40" alt="Aress" /></a></td>
 <td><a href="https://aress.com"><strong>Aress Software</strong></a><br/><em>ML Intern</em><br/>PyTorch on 500k+ multimodal records · unified 10+ data sources · analytics dashboards</td>
 </tr>
 <tr>
-<td width="70" align="center" valign="middle"><a href="https://humecenter.vt.edu"><img src="https://www.google.com/s2/favicons?domain=vt.edu&sz=48" width="40" alt="Hume Center" /></a></td>
+<td width="70" align="center" valign="middle"><a href="https://humecenter.vt.edu"><img src="./assets/vt.svg" width="40" alt="Hume Center" /></a></td>
 <td><a href="https://humecenter.vt.edu"><strong>Hume Center</strong></a><br/><em>Systems Engineering Intern</em><br/>Concurrent C++ imaging · CubeSat systems deployed to orbit</td>
 </tr>
 <tr>
-<td width="70" align="center" valign="middle"><a href="https://y-axis.com"><img src="https://www.google.com/s2/favicons?domain=y-axis.com&sz=48" width="40" alt="Y-Axis" /></a></td>
+<td width="70" align="center" valign="middle"><a href="https://y-axis.com"><img src="./assets/yaxis.svg" width="40" alt="Y-Axis" /></a></td>
 <td><a href="https://y-axis.com"><strong>Y-Axis</strong></a><br/><em>Data Engineering Intern</em><br/>SQL pipelines · feature engineering · automated dashboards</td>
 </tr>
 </table>
@@ -110,6 +106,12 @@
 **NYU Courant** · B.A. Mathematics & Computer Science (Accelerated 3-Year) · May 2027 · 3.75 GPA
 
 Algorithms · Operating Systems · Machine Learning · Numerical Methods · Probability · Real Analysis · Linear Algebra · Differential Equations
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohanmalhotra0/rohanmalhotra0/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
 
 ---
 
