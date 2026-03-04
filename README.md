@@ -59,7 +59,7 @@
 
 | Project | Description |
 |:---|:---|
-| [**Refrax**](https://refrax.io) | Quant modeling · 2D/3D viz · REST/WebSocket · PostgreSQL |
+| [**Refrax**](https://refrax.io) | Quant modeling · 2D/3D viz · REST/WebSocket|
 | [**GreenSticker**](https://greensticker.us) | Hands-free cursor via color tracking · on-device vision |
 | [**Autism Research Tool**](https://autismtester.com) | Screening experiments · structured data · research-grade UX |
 | [**PIVOT Platform**](https://vtpivot.org) | Multi-university STEM research · collaboration infra |
