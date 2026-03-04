@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Rohan%20Malhotra&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=Rohan%20Malhotra&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohanmalhotra0/rohanmalhotra0/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 <p align="center">
@@ -16,17 +20,17 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanmalhotra0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmalhotra0&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanmalhotra0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=rohanmalhotra0&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" height="165" alt="Streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmalhotra0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmalhotra0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff" height="165" alt="Top languages" />
 </p>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" height="28" /> What I Build
+### ⚡ What I Build
 
 > Systems engineer & quant researcher. Concurrency, real-time pipelines, statistical inference.  
 > C++ at **Kalshi** (prediction markets). C++ at **Hume Center** (CubeSat → orbit). PyTorch on **500k+** records at Aress.  
@@ -34,7 +38,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" height="28" /> Stack
+### 🛠 Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,cpp,py,react,nextjs,nodejs,postgres,docker,pytorch,git" />
@@ -46,7 +50,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" height="28" /> Experience
+### 💼 Experience
 
 | | | |
 |:---:|:---|:---|
@@ -57,7 +61,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" height="28" /> Projects
+### 🚀 Projects
 
 | Project | Description |
 |:---|:---|
@@ -73,14 +77,14 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" height="28" /> Research
+### 📚 Research
 
 - **Reddit Sentiment in Financial Markets** — NLP + time-series · volatility analysis · regression pipelines
 - **Capital Allocation with the Kelly Criterion** — Monte Carlo backtesting · fractional vs full Kelly · risk-adjusted growth
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Graduation%20Cap.png" height="28" /> Education
+### 🎓 Education
 
 **NYU Courant** · B.A. Mathematics & Computer Science (Accelerated 3-Year) · May 2027 · 3.75 GPA
 
@@ -89,7 +93,7 @@ Algorithms · Operating Systems · Machine Learning · Numerical Methods · Prob
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmalhotra0&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=00d9ff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmalhotra0&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=00d9ff" alt="Contribution graph" />
 </p>
 
 <p align="center">
