@@ -24,6 +24,19 @@
   <img src="https://raw.githubusercontent.com/rohanmalhotra0/rohanmalhotra0/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
 
+### Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/rohanmalhotra0/gavindle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanmalhotra0&repo=gavindle&theme=dark&bg_color=000000&title_color=1877F2&icon_color=1877F2&hide_border=true" alt="gavindle" /></a>
+  <a href="https://github.com/rohanmalhotra0/greenSticker2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanmalhotra0&repo=greenSticker2&theme=dark&bg_color=000000&title_color=1877F2&icon_color=1877F2&hide_border=true" alt="greenSticker2" /></a>
+  <a href="https://github.com/rohanmalhotra0/AutismResearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanmalhotra0&repo=AutismResearch&theme=dark&bg_color=000000&title_color=1877F2&icon_color=1877F2&hide_border=true" alt="AutismResearch" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/rohanmalhotra0/KalshiHedgingDashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanmalhotra0&repo=KalshiHedgingDashboard&theme=dark&bg_color=000000&title_color=1877F2&icon_color=1877F2&hide_border=true" alt="KalshiHedgingDashboard" /></a>
+  <a href="https://github.com/rohanmalhotra0/prism-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanmalhotra0&repo=prism-frontend&theme=dark&bg_color=000000&title_color=1877F2&icon_color=1877F2&hide_border=true" alt="prism-frontend" /></a>
+  <a href="https://github.com/rohanmalhotra0/rohanWebsite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanmalhotra0&repo=rohanWebsite&theme=dark&bg_color=000000&title_color=1877F2&icon_color=1877F2&hide_border=true" alt="rohanWebsite" /></a>
+</p>
+
 ---
 
 ### <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=codesandbox&logoColor=1877F2" width="20" height="20" /> What I Build
@@ -50,19 +63,19 @@
 
 <table>
 <tr>
-<td width="60" align="center" valign="top"><a href="https://kalshi.com"><img src="https://logo.clearbit.com/kalshi.com" width="40" alt="Kalshi" /></a></td>
+<td width="70" align="center" valign="middle"><a href="https://kalshi.com"><img src="https://www.google.com/s2/favicons?domain=kalshi.com&sz=48" width="40" alt="Kalshi" /></a></td>
 <td><a href="https://kalshi.com"><strong>Kalshi</strong></a><br/><em>Quantitative Developer Intern</em><br/>C++ hedging engine · Kelly-based sizing · real-time WebSocket pipeline</td>
 </tr>
 <tr>
-<td width="60" align="center" valign="top"><a href="https://aress.com"><img src="https://logo.clearbit.com/aress.com" width="40" alt="Aress" /></a></td>
+<td width="70" align="center" valign="middle"><a href="https://aress.com"><img src="https://www.google.com/s2/favicons?domain=aress.com&sz=48" width="40" alt="Aress" /></a></td>
 <td><a href="https://aress.com"><strong>Aress Software</strong></a><br/><em>ML Intern</em><br/>PyTorch on 500k+ multimodal records · unified 10+ data sources · analytics dashboards</td>
 </tr>
 <tr>
-<td width="60" align="center" valign="top"><a href="https://humecenter.vt.edu"><img src="https://logo.clearbit.com/vt.edu" width="40" alt="Hume Center" /></a></td>
+<td width="70" align="center" valign="middle"><a href="https://humecenter.vt.edu"><img src="https://www.google.com/s2/favicons?domain=vt.edu&sz=48" width="40" alt="Hume Center" /></a></td>
 <td><a href="https://humecenter.vt.edu"><strong>Hume Center</strong></a><br/><em>Systems Engineering Intern</em><br/>Concurrent C++ imaging · CubeSat systems deployed to orbit</td>
 </tr>
 <tr>
-<td width="60" align="center" valign="top"><a href="https://y-axis.com"><img src="https://logo.clearbit.com/y-axis.com" width="40" alt="Y-Axis" /></a></td>
+<td width="70" align="center" valign="middle"><a href="https://y-axis.com"><img src="https://www.google.com/s2/favicons?domain=y-axis.com&sz=48" width="40" alt="Y-Axis" /></a></td>
 <td><a href="https://y-axis.com"><strong>Y-Axis</strong></a><br/><em>Data Engineering Intern</em><br/>SQL pipelines · feature engineering · automated dashboards</td>
 </tr>
 </table>
