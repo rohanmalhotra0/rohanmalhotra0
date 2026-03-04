@@ -20,21 +20,6 @@
   <img src="https://streak-stats.demolab.com/?user=rohanmalhotra0&hide_border=true&background=000000&ring=1877F2&fire=1877F2&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=1877F2&dates=ffffff&starting_year=2025&ending_year=2026" height="165" alt="Streak stats" />
 </p>
 
-### Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/rohanmalhotra0/gavindle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanmalhotra0&repo=gavindle&theme=dark&bg_color=000000&title_color=1877F2&icon_color=1877F2&hide_border=true" alt="gavindle" /></a>
-  <a href="https://github.com/rohanmalhotra0/greenSticker2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanmalhotra0&repo=greenSticker2&theme=dark&bg_color=000000&title_color=1877F2&icon_color=1877F2&hide_border=true" alt="greenSticker2" /></a>
-  <a href="https://github.com/rohanmalhotra0/AutismResearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanmalhotra0&repo=AutismResearch&theme=dark&bg_color=000000&title_color=1877F2&icon_color=1877F2&hide_border=true" alt="AutismResearch" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/rohanmalhotra0/KalshiHedgingDashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanmalhotra0&repo=KalshiHedgingDashboard&theme=dark&bg_color=000000&title_color=1877F2&icon_color=1877F2&hide_border=true" alt="KalshiHedgingDashboard" /></a>
-  <a href="https://github.com/rohanmalhotra0/prism-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanmalhotra0&repo=prism-frontend&theme=dark&bg_color=000000&title_color=1877F2&icon_color=1877F2&hide_border=true" alt="prism-frontend" /></a>
-  <a href="https://github.com/rohanmalhotra0/rohanWebsite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanmalhotra0&repo=rohanWebsite&theme=dark&bg_color=000000&title_color=1877F2&icon_color=1877F2&hide_border=true" alt="rohanWebsite" /></a>
-</p>
-
----
-
 ### <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=codesandbox&logoColor=1877F2" width="20" height="20" /> What I Build
 
 > Systems engineer & quant researcher. Concurrency, real-time pipelines, statistical inference.  
