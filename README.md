@@ -22,7 +22,7 @@
 
 ---
 
-### <img src="https://cdn.simpleicons.org/codepen/1877F2" width="20" height="20" /> What I Build
+### <img src="https://skillicons.dev/icons?i=github" width="20" height="20" /> What I Build
 
 > Systems engineer & quant researcher. Concurrency, real-time pipelines, statistical inference.  
 > C++ at **Kalshi** (prediction markets). C++ at **Hume Center** (CubeSat → orbit). PyTorch on **500k+** records at Aress.  
@@ -30,7 +30,7 @@
 
 ---
 
-### <img src="https://cdn.simpleicons.org/npm/1877F2" width="20" height="20" /> Stack
+### <img src="https://skillicons.dev/icons?i=nodejs" width="20" height="20" /> Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,cpp,py,react,nextjs,nodejs,postgres,docker,pytorch,git" />
@@ -42,7 +42,7 @@
 
 ---
 
-### <img src="https://cdn.simpleicons.org/microsoft/1877F2" width="20" height="20" /> Experience
+### <img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" /> Experience
 
 | | | |
 |:---:|:---|:---|
@@ -53,7 +53,7 @@
 
 ---
 
-### <img src="https://cdn.simpleicons.org/rocketchat/1877F2" width="20" height="20" /> Projects
+### <img src="https://skillicons.dev/icons?i=docker" width="20" height="20" /> Projects
 
 | Project | Description |
 |:---|:---|
@@ -69,14 +69,14 @@
 
 ---
 
-### <img src="https://cdn.simpleicons.org/bookstack/1877F2" width="20" height="20" /> Research
+### <img src="https://skillicons.dev/icons?i=python" width="20" height="20" /> Research
 
 - **Reddit Sentiment in Financial Markets** — NLP + time-series · volatility analysis · regression pipelines
 - **Capital Allocation with the Kelly Criterion** — Monte Carlo backtesting · fractional vs full Kelly · risk-adjusted growth
 
 ---
 
-### <img src="https://cdn.simpleicons.org/readthedocs/1877F2" width="20" height="20" /> Education
+### <img src="https://skillicons.dev/icons?i=cpp" width="20" height="20" /> Education
 
 **NYU Courant** · B.A. Mathematics & Computer Science (Accelerated 3-Year) · May 2027 · 3.75 GPA
 
