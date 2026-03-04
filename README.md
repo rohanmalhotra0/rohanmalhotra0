@@ -48,12 +48,10 @@
 
 ### <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=readthedocs&logoColor=ffffff" width="20" height="20" /> Experience
 
-| | | |
-|:---:|:---|:---|
-| **Kalshi** | Quantitative Developer Intern | C++ hedging engine; Kelly-based sizing; real-time WebSocket pipeline |
-| **Aress Software** | ML Intern | PyTorch on 500k+ multimodal records; unified 10+ data sources; analytics dashboards |
-| **Hume Center** | Systems Engineering Intern | Concurrent C++ imaging; CubeSat systems deployed to orbit |
-| **Y-Axis** | Data Engineering Intern | SQL pipelines; feature engineering; automated dashboards |
+- **Kalshi** — Quantitative Developer Intern — C++ hedging engine; Kelly-based sizing; real-time WebSocket pipeline
+- **Aress Software** — ML Intern — PyTorch on 500k+ multimodal records; unified 10+ data sources; analytics dashboards
+- **Hume Center** — Systems Engineering Intern — Concurrent C++ imaging; CubeSat systems deployed to orbit
+- **Y-Axis** — Data Engineering Intern — SQL pipelines; feature engineering; automated dashboards
 
 ---
 
@@ -61,7 +59,7 @@
 
 | Project | Description |
 |:---|:---|
-| [**Refrax**](https://refrax.io) | Quant modeling · 2D/3D viz · low-latency REST/WebSocket · PostgreSQL |
+| [**Refrax**](https://refrax.io) | Quant modeling · 2D/3D viz · REST/WebSocket · PostgreSQL |
 | [**GreenSticker**](https://greensticker.us) | Hands-free cursor via color tracking · on-device vision |
 | [**Autism Research Tool**](https://autismtester.com) | Screening experiments · structured data · research-grade UX |
 | [**PIVOT Platform**](https://vtpivot.org) | Multi-university STEM research · collaboration infra |
