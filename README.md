@@ -20,26 +20,6 @@
   <img src="https://streak-stats.demolab.com/?user=rohanmalhotra0&hide_border=true&background=000000&ring=1877F2&fire=1877F2&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=1877F2&dates=ffffff&starting_year=2025&ending_year=2026" height="165" alt="Streak stats" />
 </p>
 
-### <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=codesandbox&logoColor=1877F2" width="20" height="20" /> What I Build
-
-> Systems engineer & quant researcher. Concurrency, real-time pipelines, statistical inference.  
-> C++ at **Kalshi** (prediction markets). C++ at **Hume Center** (CubeSat → orbit). PyTorch on **500k+** records at Aress.  
-> I ship code that runs in production.
-
----
-
-### <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=npm&logoColor=1877F2" width="20" height="20" /> Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,c,py,react,nextjs,nodejs,postgres,docker,pytorch,git&theme=dark" />
-</p>
-
-<p align="center">
-  <code>Python</code> · <code>C++</code> · <code>TypeScript</code> · <code>PostgreSQL</code> · <code>PyTorch</code> · <code>React</code> · <code>Docker</code> · <code>WebSocket</code> · <code>REST</code>
-</p>
-
----
-
 ### <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=readthedocs&logoColor=1877F2" width="20" height="20" /> Experience
 
 <table>
@@ -60,6 +40,26 @@
 <td><a href="https://y-axis.com"><strong>Y-Axis</strong></a><br/><em>Data Engineering Intern</em><br/>SQL pipelines · feature engineering · automated dashboards</td>
 </tr>
 </table>
+
+---
+
+### <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=codesandbox&logoColor=1877F2" width="20" height="20" /> What I Build
+
+> Systems engineer & quant researcher. Concurrency, real-time pipelines, statistical inference.  
+> C++ at **Kalshi** (prediction markets). C++ at **Hume Center** (CubeSat → orbit). PyTorch on **500k+** records at Aress.  
+> I ship code that runs in production.
+
+---
+
+### <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=npm&logoColor=1877F2" width="20" height="20" /> Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,c,py,react,nextjs,nodejs,postgres,docker,pytorch,git&theme=dark" />
+</p>
+
+<p align="center">
+  <code>Python</code> · <code>C++</code> · <code>TypeScript</code> · <code>PostgreSQL</code> · <code>PyTorch</code> · <code>React</code> · <code>Docker</code> · <code>WebSocket</code> · <code>REST</code>
+</p>
 
 ---
 
