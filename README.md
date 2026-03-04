@@ -21,9 +21,7 @@
 </p>
 ### <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=1877F2" width="20" height="20" /> Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmalhotra0&bg_color=000000&color=1877F2&line=1877F2&point=ffffff&area=true&hide_border=true" />
-</p>
+
 ### <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=readthedocs&logoColor=1877F2" width="20" height="20" /> Experience
 
 <table>
