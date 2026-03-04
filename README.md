@@ -59,19 +59,19 @@
 
 <table>
 <tr>
-<td width="70" align="center" valign="middle"><a href="https://kalshi.com"><img src="./assets/kalshi.png" width="40" alt="Kalshi" style="border-radius:10px" /></a></td>
+<td width="70" align="center" valign="middle"><a href="https://kalshi.com"><img src="./work/kalshi_logo.jpeg" width="40" alt="Kalshi" style="border-radius:10px" /></a></td>
 <td><a href="https://kalshi.com"><strong>Kalshi</strong></a><br/><em>Quantitative Developer Intern</em><br/>C++ hedging engine · Kelly-based sizing · real-time WebSocket pipeline</td>
 </tr>
 <tr>
-<td width="70" align="center" valign="middle"><a href="https://aress.com"><img src="./assets/aress.png" width="40" alt="Aress" style="border-radius:10px" /></a></td>
+<td width="70" align="center" valign="middle"><a href="https://aress.com"><img src="./work/aress_software_logo.jpeg" width="40" alt="Aress" style="border-radius:10px" /></a></td>
 <td><a href="https://aress.com"><strong>Aress Software</strong></a><br/><em>ML Intern</em><br/>PyTorch on 500k+ multimodal records · unified 10+ data sources · analytics dashboards</td>
 </tr>
 <tr>
-<td width="70" align="center" valign="middle"><a href="https://humecenter.vt.edu"><img src="./assets/vt.png" width="40" alt="Hume Center" style="border-radius:10px" /></a></td>
+<td width="70" align="center" valign="middle"><a href="https://humecenter.vt.edu"><img src="./work/humecenter_logo.jpeg" width="40" alt="Hume Center" style="border-radius:10px" /></a></td>
 <td><a href="https://humecenter.vt.edu"><strong>Hume Center</strong></a><br/><em>Systems Engineering Intern</em><br/>Concurrent C++ imaging · CubeSat systems deployed to orbit</td>
 </tr>
 <tr>
-<td width="70" align="center" valign="middle"><a href="https://y-axis.com"><img src="./assets/yaxis.png" width="40" alt="Y-Axis" style="border-radius:10px" /></a></td>
+<td width="70" align="center" valign="middle"><a href="https://y-axis.com"><img src="./work/y_axis_logo.jpeg" width="40" alt="Y-Axis" style="border-radius:10px" /></a></td>
 <td><a href="https://y-axis.com"><strong>Y-Axis</strong></a><br/><em>Data Engineering Intern</em><br/>SQL pipelines · feature engineering · automated dashboards</td>
 </tr>
 </table>
