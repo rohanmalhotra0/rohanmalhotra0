@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=Rohan%20Malhotra&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=40" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohanmalhotra0/rohanmalhotra0/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:16213e&height=240&section=header&text=Rohan%20Malhotra&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
@@ -22,10 +18,6 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=rohanmalhotra0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" height="165" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=rohanmalhotra0&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" height="165" alt="Streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohanmalhotra0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff" height="165" alt="Top languages" />
 </p>
 
 ---
@@ -91,10 +83,6 @@
 Algorithms · Operating Systems · Machine Learning · Numerical Methods · Probability · Real Analysis · Linear Algebra · Differential Equations
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rohanmalhotra0&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=00d9ff" alt="Contribution graph" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" />
