@@ -22,7 +22,7 @@
 
 ---
 
-### <img src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=codepen&amp;logoColor=1877F2" width="20" height="20" /> What I Build
+### <img src="https://img.shields.io/badge/-000000?style=flat-square&amp;logo=codesandbox&amp;logoColor=1877F2" width="20" height="20" /> What I Build
 
 > Systems engineer & quant researcher. Concurrency, real-time pipelines, statistical inference.  
 > C++ at **Kalshi** (prediction markets). C++ at **Hume Center** (CubeSat → orbit). PyTorch on **500k+** records at Aress.  
