@@ -50,19 +50,19 @@
 
 <table>
 <tr>
-<td width="60" align="center" valign="top"><a href="https://kalshi.com"><img src="https://logo.clearbit.com/kalshi.com" width="48" height="48" alt="Kalshi" /></a></td>
+<td width="60" align="center" valign="top"><a href="https://kalshi.com"><img src="https://www.google.com/s2/favicons?domain=kalshi.com&sz=48" width="48" height="48" alt="Kalshi" /></a></td>
 <td><a href="https://kalshi.com"><strong>Kalshi</strong></a><br/><em>Quantitative Developer Intern</em><br/>C++ hedging engine · Kelly-based sizing · real-time WebSocket pipeline</td>
 </tr>
 <tr>
-<td width="60" align="center" valign="top"><a href="https://aress.com"><img src="https://logo.clearbit.com/aress.com" width="48" height="48" alt="Aress" /></a></td>
+<td width="60" align="center" valign="top"><a href="https://aress.com"><img src="https://www.google.com/s2/favicons?domain=aress.com&sz=48" width="48" height="48" alt="Aress" /></a></td>
 <td><a href="https://aress.com"><strong>Aress Software</strong></a><br/><em>ML Intern</em><br/>PyTorch on 500k+ multimodal records · unified 10+ data sources · analytics dashboards</td>
 </tr>
 <tr>
-<td width="60" align="center" valign="top"><a href="https://humecenter.vt.edu"><img src="https://logo.clearbit.com/vt.edu" width="48" height="48" alt="Hume Center" /></a></td>
+<td width="60" align="center" valign="top"><a href="https://humecenter.vt.edu"><img src="https://www.google.com/s2/favicons?domain=vt.edu&sz=48" width="48" height="48" alt="Hume Center" /></a></td>
 <td><a href="https://humecenter.vt.edu"><strong>Hume Center</strong></a><br/><em>Systems Engineering Intern</em><br/>Concurrent C++ imaging · CubeSat systems deployed to orbit</td>
 </tr>
 <tr>
-<td width="60" align="center" valign="top"><a href="https://y-axis.com"><img src="https://logo.clearbit.com/y-axis.com" width="48" height="48" alt="Y-Axis" /></a></td>
+<td width="60" align="center" valign="top"><a href="https://y-axis.com"><img src="https://www.google.com/s2/favicons?domain=y-axis.com&sz=48" width="48" height="48" alt="Y-Axis" /></a></td>
 <td><a href="https://y-axis.com"><strong>Y-Axis</strong></a><br/><em>Data Engineering Intern</em><br/>SQL pipelines · feature engineering · automated dashboards</td>
 </tr>
 </table>
