@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/rohanamal"><img src="https://img.shields.io/badge/LinkedIn-1877F2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Rohanmalhotra8974@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=1877F2" /></a>
 </p>
-
+![Metrics](https://metrics.lecoq.io/rohanmalhotra0?template=classic)
 ---
 
 <p align="center">
