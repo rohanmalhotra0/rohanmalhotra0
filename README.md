@@ -20,12 +20,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanmalhotra0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rohanmalhotra0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" height="165" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=rohanmalhotra0&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" height="165" alt="Streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmalhotra0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohanmalhotra0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff" height="165" alt="Top languages" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ Algorithms · Operating Systems · Machine Learning · Numerical Methods · Prob
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmalhotra0&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=00d9ff" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rohanmalhotra0&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=00d9ff" alt="Contribution graph" />
 </p>
 
 <p align="center">
