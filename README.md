@@ -48,10 +48,24 @@
 
 ### <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=readthedocs&logoColor=ffffff" width="20" height="20" /> Experience
 
-- **Kalshi** — Quantitative Developer Intern — C++ hedging engine; Kelly-based sizing; real-time WebSocket pipeline
-- **Aress Software** — ML Intern — PyTorch on 500k+ multimodal records; unified 10+ data sources; analytics dashboards
-- **Hume Center** — Systems Engineering Intern — Concurrent C++ imaging; CubeSat systems deployed to orbit
-- **Y-Axis** — Data Engineering Intern — SQL pipelines; feature engineering; automated dashboards
+<table>
+<tr>
+<td width="60" align="center" valign="top"><a href="https://kalshi.com"><img src="https://logo.clearbit.com/kalshi.com" width="48" height="48" alt="Kalshi" /></a></td>
+<td><a href="https://kalshi.com"><strong>Kalshi</strong></a><br/><em>Quantitative Developer Intern</em><br/>C++ hedging engine · Kelly-based sizing · real-time WebSocket pipeline</td>
+</tr>
+<tr>
+<td width="60" align="center" valign="top"><a href="https://aress.com"><img src="https://logo.clearbit.com/aress.com" width="48" height="48" alt="Aress" /></a></td>
+<td><a href="https://aress.com"><strong>Aress Software</strong></a><br/><em>ML Intern</em><br/>PyTorch on 500k+ multimodal records · unified 10+ data sources · analytics dashboards</td>
+</tr>
+<tr>
+<td width="60" align="center" valign="top"><a href="https://humecenter.vt.edu"><img src="https://logo.clearbit.com/vt.edu" width="48" height="48" alt="Hume Center" /></a></td>
+<td><a href="https://humecenter.vt.edu"><strong>Hume Center</strong></a><br/><em>Systems Engineering Intern</em><br/>Concurrent C++ imaging · CubeSat systems deployed to orbit</td>
+</tr>
+<tr>
+<td width="60" align="center" valign="top"><a href="https://y-axis.com"><img src="https://logo.clearbit.com/y-axis.com" width="48" height="48" alt="Y-Axis" /></a></td>
+<td><a href="https://y-axis.com"><strong>Y-Axis</strong></a><br/><em>Data Engineering Intern</em><br/>SQL pipelines · feature engineering · automated dashboards</td>
+</tr>
+</table>
 
 ---
 
@@ -65,7 +79,7 @@
 | [**PIVOT Platform**](https://vtpivot.org) | Multi-university STEM research · collaboration infra |
 | [**Gavindle**](https://gavindle.com) | Full-stack Wordle · 20+ daily users |
 | **Raspberry Pi Binomial Options** | Live data · binomial tree pricing · automated execution |
-| **Quantum Oscillating Stock Model** | Wave signals · regime detection · automated reporting |
+| **Oscillating Stock Model** | Wave signals · regime detection · automated reporting |
 | **RSI Predictor** | SMA/MACD/RSI · Random Forest · cross-validation |
 | **Linear Generator** | Wearable Faraday-law energy harvesting |
 
