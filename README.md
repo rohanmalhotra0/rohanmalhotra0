@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:333333&text=Rohan%20Malhotra&fontSize=60&fontColor=fff&fontAlignY=40&desc=Systems+engineer+and+quant+researcher+building+low-latency+systems+that+ship.&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ffffff,100:000000&text=Rohan%20Malhotra&fontSize=60&fontColor=000000&fontAlignY=40&desc=Systems+engineer+and+quant+researcher+building+low-latency+systems+that+ship.&descAlignY=60&descColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohanmalhotra0&color=ffffff&style=flat-square&label=profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rohanmalhotra0&color=000000&style=flat-square&label=profile+views" alt="Profile views" />
   <a href="https://rohanm.org"><img src="https://img.shields.io/badge/rohanm.org-000000?style=flat-square&logo=googlechrome&logoColor=ffffff" /></a>
   <a href="https://linkedin.com/in/rohanamal"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=ffffff" /></a>
   <a href="mailto:Rohanmalhotra8974@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=ffffff" /></a>
