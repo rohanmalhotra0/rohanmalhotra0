@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1877F2,100:0668E1&text=Rohan%20Malhotra&fontSize=60&fontColor=fff&fontAlignY=40&desc=Systems+engineer+%26+quant+researcher+building+low-latency+systems+that+ship.&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1877F2,100:0668E1&text=Rohan%20Malhotra&fontSize=60&fontColor=fff&fontAlignY=40&desc=Systems+engineer+and+quant+researcher+building+low-latency+systems+that+ship.&descAlignY=60&animation=twinkling" />
 </p>
 
 <p align="center">
