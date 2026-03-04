@@ -8,16 +8,16 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohanmalhotra0&color=1877F2&style=flat-square&label=profile+views" alt="Profile views" />
-  <a href="https://rohanm.org"><img src="https://img.shields.io/badge/rohanm.org-1877F2?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rohanamal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Rohanmalhotra8974@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://rohanm.org"><img src="https://img.shields.io/badge/rohanm.org-000000?style=flat-square&logo=googlechrome&logoColor=1877F2" /></a>
+  <a href="https://linkedin.com/in/rohanamal"><img src="https://img.shields.io/badge/LinkedIn-1877F2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:Rohanmalhotra8974@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=1877F2" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=rohanmalhotra0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=1877F2&icon_color=1877F2" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=rohanmalhotra0&theme=radical&hide_border=true&background=0d1117&ring=1877F2&fire=1877F2&currStreakLabel=1877F2" height="165" alt="Streak stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rohanmalhotra0&show_icons=true&hide_border=true&bg_color=000000&title_color=1877F2&icon_color=1877F2&text_color=ffffff&commits_year=2025" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=rohanmalhotra0&hide_border=true&background=000000&ring=1877F2&fire=1877F2&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=1877F2&dates=ffffff&starting_year=2025" height="165" alt="Streak stats" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ### <img src="https://skillicons.dev/icons?i=nodejs" width="20" height="20" /> Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,py,react,nextjs,nodejs,postgres,docker,pytorch,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,py,react,nextjs,nodejs,postgres,docker,pytorch,git&theme=dark" />
 </p>
 
 <p align="center">
