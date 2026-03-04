@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ffffff,50:808080,100:ffffff&text=Rohan%20Malhotra&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Systems+engineer+building+low-latency+systems+that+ship.&descAlignY=60&descColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ffffff,50:808080,100:ffffff&text=Rohan%20Malhotra&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Systems+engineer+and+quant+researcher+building+low-latency+systems+that+ship.&descAlignY=60&descColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
@@ -61,15 +61,15 @@
 
 | Project | Description |
 |:---|:---|
-| [**Refrax**](https://refrax.io) | Quant modeling + 2D/3D viz · low-latency REST/WebSocket · PostgreSQL research engine |
-| [**GreenSticker**](https://greensticker.us) | Hands-free cursor control via color tracking · on-device computer vision |
-| [**Autism Research Tool**](https://autismtester.com) | Screening experiments · structured data collection · research-grade UX |
-| [**PIVOT Platform**](https://vtpivot.org) | Multi-university STEM research · collaboration infrastructure |
+| [**Refrax**](https://refrax.io) | Quant modeling · 2D/3D viz · low-latency REST/WebSocket · PostgreSQL |
+| [**GreenSticker**](https://greensticker.us) | Hands-free cursor via color tracking · on-device vision |
+| [**Autism Research Tool**](https://autismtester.com) | Screening experiments · structured data · research-grade UX |
+| [**PIVOT Platform**](https://vtpivot.org) | Multi-university STEM research · collaboration infra |
 | [**Gavindle**](https://gavindle.com) | Full-stack Wordle · 20+ daily users |
-| **Raspberry Pi Binomial Options** | Live data ingestion · binomial tree pricing · automated execution |
-| **Quantum Oscillating Stock Model** | Wave-based signals · regime detection · automated reporting |
-| **RSI Predictor** | SMA/MACD/RSI features · Random Forest · cross-validation |
-| **Linear Generator** | Wearable Faraday-law energy harvesting from motion |
+| **Raspberry Pi Binomial Options** | Live data · binomial tree pricing · automated execution |
+| **Quantum Oscillating Stock Model** | Wave signals · regime detection · automated reporting |
+| **RSI Predictor** | SMA/MACD/RSI · Random Forest · cross-validation |
+| **Linear Generator** | Wearable Faraday-law energy harvesting |
 
 ---
 
