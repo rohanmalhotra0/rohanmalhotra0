@@ -37,7 +37,8 @@
 ### <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=npm&logoColor=1877F2" width="20" height="20" /> Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,py,react,nextjs,nodejs,postgres,docker,pytorch,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,postgres,docker,pytorch,git&theme=dark" />
+  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=1877F2" alt="C++" />
 </p>
 
 <p align="center">
