@@ -9,6 +9,8 @@
 <a href="mailto:Rohanmalhotra8974@gmail.com"><img src="https://img.shields.io/badge/email-111?style=flat-square&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=rohanmalhotra0&color=0A66C2&style=flat-square&label=views" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=620&lines=Building+on+clouds+%E2%80%94+literally.;Distributed+systems+%7C+Real-time+pipelines+%7C+Infra;Incoming+SWE+%40+IBM+%C2%B7+NYU+Courant+%2727" alt="Typing SVG" />
+
 </div>
 
 ---
