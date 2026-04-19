@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=rohanmalhotra0&show_icons=true&hide_border=true&hide_rank=true&bg_color=000000&title_color=1877F2&icon_color=1877F2&text_color=ffffff&commits_year=2026" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=rohanmalhotra0&hide_border=true&background=000000&ring=1877F2&fire=1877F2&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=1877F2&dates=ffffff&starting_year=2025" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rohanmalhotra0&show_icons=true&hide_border=true&hide_rank=true&bg_color=ffffff&title_color=1877F2&icon_color=1877F2&text_color=000000&commits_year=2026" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=rohanmalhotra0&hide_border=true&background=ffffff&ring=1877F2&fire=1877F2&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=1877F2&dates=555555&starting_year=2025" height="160" />
 </p>
 
 ---
