@@ -25,35 +25,5 @@
 <td width="60" align="center"><a href="https://kalshi.com"><img src="./work/kalshi_logo.jpeg" width="38" alt="Kalshi" /></a></td>
 <td><a href="https://kalshi.com"><strong>Kalshi</strong></a> · <em>Quantitative Developer Intern</em><br/>C++ hedging engine · real-time WebSocket pipeline</td>
 </tr>
-<tr>
-<td width="60" align="center"><a href="https://aress.com"><img src="./work/aress_software_logo.jpeg" width="38" alt="Aress" /></a></td>
-<td><a href="https://aress.com"><strong>Aress Software</strong></a> · <em>ML Intern</em><br/>PyTorch on 500k+ records</td>
-</tr>
-<tr>
-<td width="60" align="center"><a href="https://humecenter.vt.edu"><img src="./work/humecenter_logo.jpeg" width="38" alt="Hume Center" /></a></td>
-<td><a href="https://humecenter.vt.edu"><strong>Hume Center @ VT</strong></a> · <em>Systems Engineering Intern</em><br/>Concurrent C++ imaging for CubeSats</td>
-</tr>
-</table>
 
----
 
-### Projects
-
-| Project | What it does |
-|:---|:---|
-| [**Refrax**](https://refrax.io) | Quant modeling platform with 2D/3D viz |
-| [**GreenSticker**](https://greensticker.us) | Hands-free cursor via on-device color tracking |
-| [**Autism Research Tool**](https://autismtester.com) | Screening experiments with research-grade UX |
-| [**PIVOT Platform**](https://vtpivot.org) | Multi-university STEM research collaboration |
-
----
-
-### Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,py,ts,cpp,postgres,react,pytorch&theme=dark" />
-</p>
-
----
-
-**NYU Courant** · B.A. Math & Computer Science · May 2027
