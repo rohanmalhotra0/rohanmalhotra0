@@ -38,9 +38,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 # ---------------------------------------------------------------- palette (his site, v2)
 PALETTES = {
     "light": dict(card="#f3f2ee", edge=None, ink="#141414", muted="#55554f", strong="#c4c3bc",
-                  tick="#b4b3ac", far="#a6a59f", cut="#f3f2ee", accent="#ff5b14", page="#ffffff"),
-    "dark": dict(card="#0e0e0d", edge="#262624", ink="#ecebe6", muted="#a3a29b", strong="#4a4a46",
-                 tick="#4a4a46", far="#62615c", cut="#0e0e0d", accent="#ff6a2b", page="#0d1117"),
+                  tick="#b4b3ac", far="#a6a59f", accent="#ff5b14"),
+    "dark": dict(card="#0e0e0d", edge="#3a3a37", ink="#ecebe6", muted="#a3a29b", strong="#4a4a46",
+                 tick="#4a4a46", far="#62615c", accent="#ff6a2b"),
 }
 
 # ---------------------------------------------------------------- layout (viewBox units)
@@ -56,14 +56,15 @@ LAYOUT = dict(
     tagline="Applied AI, quantitative systems, and robotics.",
 )
 
-# ---------------------------------------------------------------- robot, in metres (his site's model)
+# ---------------------------------------------------------------- robot, in metres (the Spot model on rohanm.org)
 R = dict(
     S=352.0,                 # units per metre
     h0=0.53,                 # hip height at rest
     L1=0.32, L2=0.335,       # upper / lower leg
-    hip_x=0.372,             # hips at +-hip_x from body centre
+    hip_x=0.29,              # hips at +-hip_x from body centre
     rf=0.030,                # foot radius
-    body_len=1.10,
+    body_len=0.80,           # nose to tail, including the sloped face
+
     arm_L1=0.33, arm_L2=0.36,
 )
 GAIT = dict(
@@ -82,7 +83,7 @@ REST_DX = {"fl": -0.09, "rl": 0.09, "fr": 0.0, "rr": 0.0}
 # body section relative to the hip line (y down): hips sit low in the body, like Spot's
 BODY = dict(top=-0.150, bot=0.072)
 # arm rest pose (body frame, deg; SVG angles: 0 = forward, +90 = down)
-ARM = dict(sx=0.31, sy=-0.196, a1=-42.0, a2=38.0, g=34.0)
+ARM = dict(sx=0.20, sy=-0.196, a1=-42.0, a2=38.0, g=34.0)
 
 
 def fnum(v, nd=2):
@@ -299,10 +300,10 @@ def draw_leg(name, rp, near, c):
     fill = c["ink"] if near else c["far"]
     lower = hull((0, 0), 0.030, (fx, fy), 0.019) + circ(fx, fy, R["rf"])
     upper = hull((0, 0), 0.060, (kx, ky), 0.040) + circ(0, 0, 0.064) + circ(kx, ky, 0.041)
-    halo = f' stroke="{c["cut"]}" stroke-width="5" paint-order="stroke" stroke-linejoin="round"' if near else ""
+    halo = f' stroke="{c["card"]}" stroke-width="5" paint-order="stroke" stroke-linejoin="round"' if near else ""
     det = ""
     if near:
-        det = (f'<path d="{circ(0, 0, 0.030)}{circ(kx, ky, 0.014)}" fill="none" stroke="{c["cut"]}" '
+        det = (f'<path d="{circ(0, 0, 0.030)}{circ(kx, ky, 0.014)}" fill="none" stroke="{c["card"]}" '
                f'stroke-width="1.5"/>')
     return (f'<g transform="translate({fnum(U(hx))},0)"><g class="j {name}h">'
             f'<g transform="translate({fnum(U(kx))},{fnum(U(ky))})"><g class="j {name}k">'
@@ -323,7 +324,7 @@ def draw_body(c):
     # front camera window on the sloped face
     det += rounded([(L - 0.018, top + 0.078), (L - 0.050, bot - 0.022), (L - 0.074, bot - 0.026), (L - 0.044, top + 0.074)], 0.008)
     return (f'<path d="{body}" fill="{c["ink"]}"/>'
-            f'<path d="{det}" fill="none" stroke="{c["cut"]}" stroke-width="1.5" stroke-linecap="round"/>')
+            f'<path d="{det}" fill="none" stroke="{c["card"]}" stroke-width="1.5" stroke-linecap="round"/>')
 
 
 def grip_geom(rp):
@@ -354,8 +355,8 @@ def draw_arm(rp, c):
         b0, m0, t0 = at(0.096, sg * 0.036), at(BALL_S, sg * 0.0505), at(BALL_S + 0.046, sg * 0.033)
         grip += hull(b0, 0.0125, m0, 0.0095) + hull(m0, 0.0095, t0, 0.0072)
     bc = at(BALL_S, 0.0)
-    halo = f' stroke="{c["cut"]}" stroke-width="5" paint-order="stroke" stroke-linejoin="round"'
-    ring = lambda r: f'<path d="{circ(0, 0, r)}" fill="none" stroke="{c["cut"]}" stroke-width="1.5"/>'
+    halo = f' stroke="{c["card"]}" stroke-width="5" paint-order="stroke" stroke-linejoin="round"'
+    ring = lambda r: f'<path d="{circ(0, 0, r)}" fill="none" stroke="{c["card"]}" stroke-width="1.5"/>'
     joint = lambda x, y, r, ri: (f'<g transform="translate({fnum(U(x))},{fnum(U(y))})">'
                                  f'<path d="{circ(0, 0, r)}" fill="{c["ink"]}"{halo}/>{ring(ri)}</g>')
     return (f'<path d="{base}" fill="{c["ink"]}"/>'
@@ -386,8 +387,8 @@ def draw_ground(c, x0, x1):
         major = (i % n_per == 0)
         ticks += f"M{fnum(U(i * step))} 5V{15 if major else 10}"
     clip = f'<clipPath id="gc"><rect x="{fnum(U(x0))}" y="0" width="{fnum(U(x1 - x0))}" height="24"/></clipPath>'
-    return clip, (f'<g clip-path="url(#gc)"><g class="j gr"><path d="{ticks}" stroke="{c["tick"]}" stroke-width="1.5"/></g></g>'
-                  f'<path d="M{fnum(U(x0))} 0H{fnum(U(x1))}" stroke="{c["strong"]}" stroke-width="1.5"/>')
+    return clip, (f'<g clip-path="url(#gc)"><g class="j gr"><path d="{ticks}" stroke="{c["tick"]}" stroke-width="2.25"/></g></g>'
+                  f'<path d="M{fnum(U(x0))} 0H{fnum(U(x1))}" stroke="{c["strong"]}" stroke-width="2.25"/>')
 
 
 def robot_extent(rp):
