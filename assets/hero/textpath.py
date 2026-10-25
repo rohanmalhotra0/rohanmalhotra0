@@ -20,24 +20,19 @@ from fontTools.ttLib import TTFont
 from fontTools.varLib import instancer
 
 CACHE = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".fonts")
-PACKAGES = {
-    "hubot-sans": (
-        "https://registry.npmjs.org/@fontsource-variable/hubot-sans/-/hubot-sans-5.3.0.tgz",
-        "sha512-iFwlxVR7VgQ73VC6CwWwr389wYSNBPpiG8R91kPqRObtxuO3RBpRkwjlGBMtOBgLfpfOGLNSF/EOJvG9QLVKlA==",
-    ),
-    "mona-sans": (
-        "https://registry.npmjs.org/@fontsource-variable/mona-sans/-/mona-sans-5.3.0.tgz",
-        "sha512-PkxRB3KI4z9Gjpk7vVqgO3GMSyQuOIIj4TaRDbvbcDj8SzWwI38jvLTQxJM/cTRorhcT7h8qjcllR+qjRtM/Fg==",
-    ),
+PACKAGES = {  # family: (version, npm integrity)
+    "hubot-sans": ("5.3.0", "sha512-iFwlxVR7VgQ73VC6CwWwr389wYSNBPpiG8R91kPqRObtxuO3RBpRkwjlGBMtOBgLfpfOGLNSF/EOJvG9QLVKlA=="),
+    "mona-sans": ("5.3.0", "sha512-PkxRB3KI4z9Gjpk7vVqgO3GMSyQuOIIj4TaRDbvbcDj8SzWwI38jvLTQxJM/cTRorhcT7h8qjcllR+qjRtM/Fg=="),
 }
 
 
 def font(family, wdth, wght):
     """Path to a static TTF of `family` at the given width and weight, built on first use."""
-    path = os.path.join(CACHE, f"{family}-{wdth}-{wght}.ttf")
+    version, integrity = PACKAGES[family]
+    path = os.path.join(CACHE, f"{family}-{version}-{wdth}-{wght}.ttf")
     if os.path.exists(path):
         return path
-    url, integrity = PACKAGES[family]
+    url = f"https://registry.npmjs.org/@fontsource-variable/{family}/-/{family}-{version}.tgz"
     with urllib.request.urlopen(url, timeout=60) as r:
         data = r.read()
     algo, want = integrity.split("-", 1)
@@ -76,6 +71,8 @@ def text_path(text, font_path, size, x=0.0, y=0.0, tracking=0.0):
     cx = 0.0
     n = len(buf.glyph_infos)
     for i, (info, pos) in enumerate(zip(buf.glyph_infos, buf.glyph_positions)):
+        if info.codepoint == 0:
+            raise ValueError(f"{os.path.basename(font_path)} has no glyph for {text[info.cluster]!r} in {text!r}")
         gx = x + (cx + pos.x_offset) * scale
         gy = y - pos.y_offset * scale
         glyphset[order[info.codepoint]].draw(TransformPen(pen, (scale, 0, 0, -scale, gx, gy)))
