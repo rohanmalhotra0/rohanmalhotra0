@@ -2,7 +2,7 @@
   <a href="https://rohanm.org">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-      <img src="assets/hero-light.svg" width="100%" alt="Rohan Malhotra. Applied AI, quantitative systems, and robotics. A drawing of a four-legged robot walking with a ball in its gripper.">
+      <img src="assets/hero-light.svg" width="100%" alt="Rohan Malhotra, over an illustration of Washington Square Park: the arch, the fountain, autumn trees and pigeons.">
     </picture>
   </a>
 </p>
