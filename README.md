@@ -1,10 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1877F2,100:0668E1&text=Rohan%20Malhotra&fontSize=54&fontColor=fff&fontAlignY=38&desc=Cloud+Engineer+%7C+NYU+Courant&descAlignY=60&descColor=fff" />
+<p>
+  <a href="https://rohanm.org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+      <img src="assets/hero-light.svg" width="100%" alt="Rohan Malhotra. Applied AI, quantitative systems, and robotics. A drawing of a four-legged robot walking with a ball in its gripper.">
+    </picture>
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://rohanm.org"><img src="https://img.shields.io/badge/rohanm.org-000?style=flat-square&logo=googlechrome&logoColor=1877F2" /></a>
-  <a href="https://linkedin.com/in/rohanamal"><img src="https://img.shields.io/badge/LinkedIn-1877F2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Rohanmalhotra8974@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=1877F2" /></a>
-</p>
+CS at NYU Courant, graduating May 2027. At IBM I trained a Boston Dynamics Spot to find a dog toy. At Kalshi I built tools to hedge job-loss risk with prediction markets.
 
+[rohanm.org](https://rohanm.org) · [LinkedIn](https://www.linkedin.com/in/rohanamal) · [Email](mailto:rohanmalhotra8974@gmail.com)
