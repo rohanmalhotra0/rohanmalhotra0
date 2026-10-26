@@ -2,7 +2,7 @@
   <a href="https://rohanm.org">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-      <img src="assets/hero-light.svg" width="100%" alt="Rohan Malhotra, over an illustration of Washington Square Park: the arch, the fountain, autumn trees and pigeons.">
+      <img src="assets/hero-light.svg" width="100%" alt="Rohan Malhotra, over an illustration of Washington Square Park: the arch, the fountain, autumn trees, pigeons and giant soap bubbles.">
     </picture>
   </a>
 </p>
